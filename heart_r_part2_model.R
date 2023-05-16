@@ -6,7 +6,7 @@
 #
 #Studia Podyplomowe: Data Scientist. Analityk danych
 #Uniwersytet WSB Merito Gdańsk
-#kwiecien, 2023
+#maj, 2023
 ####
 
 # import bibliotek
